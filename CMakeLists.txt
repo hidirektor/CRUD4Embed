@@ -6,8 +6,10 @@ set(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} -m32")
 set(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} -m32")
 
 set(MARIADB_CONNECTOR_C_DIR "C:/Program Files (x86)/MariaDB/MariaDB Connector C")
+set(LWIP_C_DIR "C:/Program Files (x86)/MinGW/include/lwip/src")
 
 include_directories(${MARIADB_CONNECTOR_C_DIR}/include)
+include_directories(${LWIP_C_DIR}/include)
 
 link_directories(${MARIADB_CONNECTOR_C_DIR}/lib)
 

@@ -2,10 +2,10 @@
 #include <stdlib.h>
 #include <mysql.h>
 
-#define SERVER_IP ""
+#define SERVER_IP "89.252.138.99"
 #define SERVER_PORT 3306
-#define USERNAME ""
-#define PASSWORD ""
+#define USERNAME "hidirekt_ipek"
+#define PASSWORD "o7E#=UQzzo6_"
 #define DATABASE "hidirekt_ondergrup"
 #define TABLE "machines"
 
@@ -86,7 +86,7 @@ void delete_record(MYSQL* conn, int MachineID) {
 int main() {
     MYSQL* conn = db_connect();
 
-    create_record(conn, 12343, "2022-01-01", 3434, 345345);
+    create_record(conn, 45, "2022-01-01", 3434, 345345);
     read_record(conn, 123);
     update_record(conn, 2, "2022-01-02", 1, 0);
     delete_record(conn, 5);

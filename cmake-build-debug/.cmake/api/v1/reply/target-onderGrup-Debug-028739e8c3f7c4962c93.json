@@ -30,25 +30,31 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 14,
+				"line" : 16,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 12,
+				"line" : 14,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
 				"file" : 0,
-				"line" : 16,
+				"line" : 18,
 				"parent" : 0
 			},
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 10,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 12,
 				"parent" : 0
 			}
 		]
@@ -67,6 +73,10 @@
 				{
 					"backtrace" : 4,
 					"path" : "C:/Program Files (x86)/MariaDB/MariaDB Connector C/include"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "C:/Program Files (x86)/MinGW/include/lwip/src/include"
 				}
 			],
 			"language" : "C",

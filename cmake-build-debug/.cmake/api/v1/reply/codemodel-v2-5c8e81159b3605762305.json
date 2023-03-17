@@ -39,7 +39,7 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "onderGrup::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-onderGrup-Debug-dd9d06d1715988536aed.json",
+					"jsonFile" : "target-onderGrup-Debug-028739e8c3f7c4962c93.json",
 					"name" : "onderGrup",
 					"projectIndex" : 0
 				}
@@ -49,8 +49,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/hidir/CLionProjects/onderGrup/cmake-build-debug",
-		"source" : "C:/Users/hidir/CLionProjects/onderGrup"
+		"build" : "C:/Users/hidir/OneDrive/Belgeler/GitHub/CRUD4Embed/cmake-build-debug",
+		"source" : "C:/Users/hidir/OneDrive/Belgeler/GitHub/CRUD4Embed"
 	},
 	"version" : 
 	{

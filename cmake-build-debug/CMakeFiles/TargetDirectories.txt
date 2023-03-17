@@ -1,3 +1,3 @@
-C:/Users/hidir/CLionProjects/onderGrup/cmake-build-debug/CMakeFiles/onderGrup.dir
-C:/Users/hidir/CLionProjects/onderGrup/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/hidir/CLionProjects/onderGrup/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/hidir/OneDrive/Belgeler/GitHub/CRUD4Embed/cmake-build-debug/CMakeFiles/onderGrup.dir
+C:/Users/hidir/OneDrive/Belgeler/GitHub/CRUD4Embed/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/hidir/OneDrive/Belgeler/GitHub/CRUD4Embed/cmake-build-debug/CMakeFiles/rebuild_cache.dir

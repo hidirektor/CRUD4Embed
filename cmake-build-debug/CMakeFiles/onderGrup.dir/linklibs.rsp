@@ -1,0 +1,1 @@
+  -LC:/PROGRA~2/MariaDB/MARIAD~1/lib  -llibmariadb -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32 
